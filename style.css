@@ -29,8 +29,8 @@
 }
 
 body {
-  /* background: var(--primary-color); */
-  background-color: white;
+  background: var(--primary-color);
+
 }
 
 .header, .chat-list .message, .typing-form {
