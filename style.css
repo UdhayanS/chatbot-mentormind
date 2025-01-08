@@ -136,7 +136,7 @@ body.hide-header .header {
   display: flex;
   gap: 1.5rem;
   width: 100%;
-  align-items: center;
+  
 }
 
 .chat-list .message .text {
